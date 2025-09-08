@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Brand — Modern, Fast, Responsive</title>
+  <meta name="description" content="Official website of Your Brand. We build great things." />
+  <meta property="og:title" content="Your Brand" />
+  <meta property="og:description" content="We build great things." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="/assets/og-image.jpg" />
+  <link rel="icon" href="/assets/favicon.png" />
+  <link rel="preload" href="styles.css" as="style" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="logo" href="#home">YourBrand</a>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#features">Features</a>
+        <a href="#work">Work</a>
+        <a href="#contact" class="btn btn-small">Contact</a>
+      </nav>
+      <button class="burger" aria-label="Open menu" aria-expanded="false">&#9776;</button>
+    </div>
+  </header>
+
+  <main id="home">
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-text">
+          <h1>Build something remarkable.</h1>
+          <p>Launch-ready website template: fast, accessible, SEO-friendly, and easy to customize.</p>
+          <div class="cta">
+            <a class="btn" href="#contact">Get Started</a>
+            <a class="btn btn-ghost" href="#features">See Features</a>
+          </div>
+          <ul class="badges">
+            <li>⚡ Fast</li>
+            <li>📱 Responsive</li>
+            <li>🔒 Secure</li>
+            <li>🧩 No backend needed</li>
+          </ul>
+        </div>
+        <div class="hero-media">
+          <div class="card">
+            <img src="https://picsum.photos/640/420?random=1" alt="Preview" loading="lazy" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section id="features" class="section">
+      <div class="container">
+        <h2>What you get</h2>
+        <p class="section-lead">Production-ready structure with simple HTML/CSS/JS.</p>
+        <div class="grid-3">
+          <div class="feature">
+            <div class="icon">🚀</div>
+            <h3>Performance-first</h3>
+            <p>Optimized images, minimal JS, semantic HTML, and accessible components out of the box.</p>
+          </div>
+          <div class="feature">
+            <div class="icon">🧭</div>
+            <h3>SEO & Sharing</h3>
+            <p>Meta tags, OpenGraph, clean URLs, sitemap/robots examples, and fast load for better ranking.</p>
+          </div>
+          <div class="feature">
+            <div class="icon">💬</div>
+            <h3>Working Contact Form</h3>
+            <p>Send messages via Formspree without maintaining servers.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="section alt">
+      <div class="container about-grid">
+        <div>
+          <h2>About Your Brand</h2>
+          <p>Say a short, punchy thing about who you are and what you do. Keep it human. Add a photo, logo, or quick stats.</p>
+          <ul class="checks">
+            <li>Over 100 happy clients</li>
+            <li>Fast turnaround times</li>
+            <li>Transparent pricing</li>
+          </ul>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/640/420?random=2" alt="Team" loading="lazy" />
+        </div>
+      </div>
+    </section>
+
+    <!-- WORK / GALLERY -->
+    <section id="work" class="section">
+      <div class="container">
+        <h2>Recent Work</h2>
+        <div class="grid-3">
+          <figure class="card"><img src="https://picsum.photos/400/280?random=3" alt="Project A" /><figcaption>Project A</figcaption></figure>
+          <figure class="card"><img src="https://picsum.photos/400/280?random=4" alt="Project B" /><figcaption>Project B</figcaption></figure>
+          <figure class="card"><img src="https://picsum.photos/400/280?random=5" alt="Project C" /><figcaption>Project C</figcaption></figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- TESTIMONIALS -->
+    <section class="section alt">
+      <div class="container">
+        <h2>Kind words</h2>
+        <div class="quotes">
+          <blockquote class="card">“Super fast setup. We launched in a day.” <cite>— Alex P.</cite></blockquote>
+          <blockquote class="card">“Looks great on mobile and desktop.” <cite>— Jamie R.</cite></blockquote>
+          <blockquote class="card">“The form just works—no backend headaches.” <cite>— Kim D.</cite></blockquote>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact</h2>
+        <p class="section-lead">Drop a message and we’ll get back within 24 hours.</p>
+        <!-- Replace the action URL with your Formspree endpoint -->
+        <form class="card form" method="POST" action="https://formspree.io/f/yourFormID">
+          <label>
+            <span>Name</span>
+            <input type="text" name="name" required />
+          </label>
+          <label>
+            <span>Email</span>
+            <input type="email" name="email" required />
+          </label>
+          <label>
+            <span>Message</span>
+            <textarea name="message" rows="5" required></textarea>
+          </label>
+          <button class="btn" type="submit">Send</button>
+          <p class="form-note">Powered by Formspree. Replace <code>yourFormID</code> with your own.</p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <strong>YourBrand</strong><br />
+        © <span id="year"></span> All rights reserved.
+      </div>
+      <nav class="footer-nav">
+        <a href="/privacy.html">Privacy</a>
+        <a href="/terms.html">Terms</a>
+        <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
