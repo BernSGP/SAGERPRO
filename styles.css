@@ -1,0 +1,107 @@
+:root{
+  --bg: #0b1020;
+  --bg-alt: #111733;
+  --text: #e7eaff;
+  --muted: #b9c0ffab;
+  --brand: #7c8cff;
+  --brand-2: #48e2c2;
+  --card: #151c3f;
+  --border: #263067;
+  --shadow: 0 12px 30px rgba(0,0,0,.25);
+}
+
+* { box-sizing: border-box }
+html, body { margin: 0; padding: 0; }
+body{
+  font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji","Segoe UI Emoji";
+  color: var(--text);
+  background:
+    radial-gradient(1200px 600px at 20% -10%, #2a355f55, transparent),
+    radial-gradient(1000px 500px at 100% 0%, #1f274e66, transparent),
+    linear-gradient(180deg, #070a18, var(--bg) 30%);
+}
+
+img{ max-width:100%; display:block }
+a{ color: inherit; text-decoration: none }
+.container{ width:min(1100px, 92%); margin-inline:auto }
+
+.site-header{
+  position: sticky; top:0; z-index: 50;
+  backdrop-filter: saturate(160%) blur(10px);
+  background: linear-gradient(180deg, #0b1020cc, #0b102000);
+  border-bottom: 1px solid #0f1430;
+}
+.nav{
+  display:flex; align-items:center; justify-content:space-between; padding: .9rem 0;
+}
+.logo{ font-weight:700; letter-spacing:.2px }
+nav a{ margin-left: 1rem; color: var(--muted) }
+nav a:hover{ color: var(--text) }
+.btn{
+  display:inline-block; padding:.7rem 1rem; border-radius: 12px;
+  background: linear-gradient(90deg, var(--brand), var(--brand-2));
+  color:#0b1020; font-weight:700; border: none; box-shadow: var(--shadow);
+}
+.btn-ghost{
+  background: transparent; color: var(--text); border:1px solid var(--border); box-shadow: none;
+}
+.btn-small{ padding:.5rem .8rem; border-radius: 10px; }
+
+.burger{ display:none; background:none; color:var(--text); font-size:1.6rem; border:0 }
+
+.hero{
+  padding: 6rem 0 4rem;
+  background: radial-gradient(600px 300px at 70% 10%, #48e2c211, transparent);
+}
+.hero-grid{
+  display:grid; gap: 2rem; grid-template-columns: 1.1fr .9fr;
+}
+.hero-text h1{ font-size: clamp(2rem, 3.5vw, 3rem); line-height:1.2; margin:0 0 .6rem }
+.hero-text p{ color: var(--muted); margin:0 0 1.2rem }
+.cta .btn{ margin-right:.6rem }
+.badges{ display:flex; gap:.6rem; flex-wrap:wrap; padding:0; list-style:none; color:var(--muted) }
+.card{
+  background: linear-gradient(180deg, #1a2149, #12183a);
+  border:1px solid var(--border); border-radius:16px; box-shadow: var(--shadow);
+  overflow:hidden;
+}
+.hero-media .card{ padding:.5rem }
+
+.section{ padding: 4rem 0 }
+.section.alt{ background: var(--bg-alt); border-block: 1px solid #0f1430; }
+.section h2{ font-size: clamp(1.6rem, 2.2vw, 2.2rem); margin:.2rem 0 1rem }
+.section-lead{ color: var(--muted); margin:-.2rem 0 2rem }
+
+.grid-3{ display:grid; gap:1.2rem; grid-template-columns: repeat(3, 1fr); }
+.feature{ padding:1.2rem; border:1px solid var(--border); border-radius: 14px; background: #12183a; }
+.feature .icon{ font-size:1.6rem; margin-bottom:.4rem }
+
+.about-grid{ display:grid; gap:2rem; grid-template-columns: 1fr 1fr; }
+.checks{ list-style:none; padding:0; margin:1rem 0 0; color: var(--muted) }
+.checks li::before{ content:"✔ "; color: var(--brand-2) }
+
+.quotes{ display:grid; gap:1rem; grid-template-columns: repeat(3, 1fr) }
+.quotes .card{ padding:1rem }
+blockquote{ margin:0 }
+cite{ display:block; color:var(--muted); margin-top:.5rem; font-style: normal }
+
+.form{ padding:1rem; display:grid; gap:.9rem; }
+.form label{ display:grid; gap:.4rem; }
+.form input, .form textarea{
+  padding:.8rem; background:#0f1430; color:var(--text); border:1px solid var(--border);
+  border-radius:10px; outline: none;
+}
+.form input:focus, .form textarea:focus{ border-color: var(--brand-2) }
+.form-note{ color: var(--muted); font-size:.9rem; margin: .2rem 0 0 }
+
+.site-footer{ padding:2rem 0; border-top:1px solid #0f1430; background: #0b1020cc }
+.footer-grid{ display:flex; align-items:center; justify-content:space-between; gap:1rem; }
+.footer-nav a{ margin-left:1rem; color: var(--muted) }
+.footer-nav a:hover{ color: var(--text) }
+
+/* Responsive */
+@media (max-width: 900px){
+  .hero-grid, .about-grid, .grid-3, .quotes { grid-template-columns: 1fr; }
+  nav{ display:none }
+  .burger{ display:block }
+}
