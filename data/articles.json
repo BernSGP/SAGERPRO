@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "from-policy-to-practice",
+    "title": "From policy announcement to classroom practice: five questions worth asking",
+    "category": "Education policy",
+    "summary": "A short framework for reading education memoranda beyond the headline—and considering what meaningful implementation requires.",
+    "date": "2026-11-01",
+    "status": "sample-draft",
+    "blocks": [
+      {"type":"p","text":"New policies frequently arrive as headlines before they are understood as instructions for practice. Educators and school leaders can avoid premature conclusions by first reading the original issuance, its scope, and its implementation conditions."},
+      {"type":"h2","text":"1. What exactly has changed?"},
+      {"type":"p","text":"Distinguish a new obligation from a clarification, an announcement, or a proposed change. Confirm the publication date, effectivity date, issuing office, and whether the document supersedes earlier guidance."},
+      {"type":"h2","text":"2. Who is covered—and who is not?"},
+      {"type":"p","text":"A policy may apply only to particular grades, institutions, program types, or implementation periods. Broad summaries can hide exceptions and transitional arrangements."},
+      {"type":"h2","text":"3. What resources does implementation require?"},
+      {"type":"p","text":"Consider staffing, materials, faculty development, assessment arrangements, time, and institutional capacity. The question is not only what is required, but also what would make it feasible."},
+      {"type":"h2","text":"4. What evidence would show improvement?"},
+      {"type":"p","text":"Define observable indicators beyond compliance: learner experiences, teaching practices, access, and relevant learning outcomes. Evidence needs to be sensitive to local context."},
+      {"type":"h2","text":"5. What questions remain open?"},
+      {"type":"p","text":"Unresolved questions can form the starting point for faculty conversations, policy briefs, research projects, or a focused continuing professional development workshop."}
+    ]
+  },
+  {
+    "slug": "cpd-beyond-attendance",
+    "title": "Beyond attendance: what should professional development actually change?",
+    "category": "Professional learning",
+    "summary": "Why a well-designed training program should start with a practice problem, not a certificate or a list of topics.",
+    "date": "2026-11-01",
+    "status": "sample-draft",
+    "blocks": [
+      {"type":"p","text":"A training program can be informative without changing what participants do afterward. Planning should therefore begin with a problem of practice: a task educators find difficult, a new responsibility, or an outcome their institution wants to improve."},
+      {"type":"h2","text":"Start with an authentic challenge"},
+      {"type":"p","text":"Instead of beginning with a lengthy program title, describe the challenge the participant will be more capable of addressing. That description can guide the learning objectives and the evidence of achievement."},
+      {"type":"h2","text":"Design for transfer"},
+      {"type":"p","text":"Workshop tasks should resemble the decisions participants will make at work. Short demonstrations, guided practice, feedback, and opportunities to revise can make abstract concepts usable."},
+      {"type":"h2","text":"Look beyond immediate satisfaction"},
+      {"type":"p","text":"Participant feedback is useful, but it is not the same as evidence of learning or application. A more complete evaluation can examine what participants produce, what they attempt later, and which conditions support or obstruct implementation."},
+      {"type":"p","text":"This line of thinking will guide SAGERPRO's exploration of possible future CPD programs. No CPD accreditation or program approval is claimed by this preview."}
+    ]
+  },
+  {
+    "slug": "research-conferences-as-dialogue",
+    "title": "A research conference should be more than a collection of presentations",
+    "category": "Research culture",
+    "summary": "Thinking about scholarly conferences as places for critique, connection, and stronger research questions.",
+    "date": "2026-11-01",
+    "status": "sample-draft",
+    "blocks": [
+      {"type":"p","text":"Research conferences can create value through the conversations they enable: feedback on design, alternative interpretations, methodological critique, and connections between researchers who face similar questions."},
+      {"type":"h2","text":"Quality of exchange"},
+      {"type":"p","text":"A useful scholarly event makes room for constructive questions and reasoned disagreement. Presenters should be able to explain not only findings but also uncertainty, limitations, and future work."},
+      {"type":"h2","text":"What comes afterward?"},
+      {"type":"p","text":"Conference organizers can consider whether collaborations, revised manuscripts, research networks, or public-facing explanations follow the event. These outcomes matter alongside the number of sessions and participants."},
+      {"type":"p","text":"For SAGERPRO, this is a preliminary editorial perspective for a potential future conference initiative; it is not a conference announcement or call for papers."}
+    ]
+  }
+]

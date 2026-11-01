@@ -1,0 +1,9 @@
+{
+  "description": "Edit the search queries to adjust what SAGERPRO monitors. The Google News search RSS endpoint is an unofficial, best-effort discovery source, not comprehensive official monitoring.",
+  "sources": [
+    {"name": "Department of Education", "category": "DepEd", "query": "site:deped.gov.ph when:30d", "enabled": true, "limit": 18},
+    {"name": "Commission on Higher Education", "category": "CHED", "query": "site:ched.gov.ph when:30d", "enabled": true, "limit": 18},
+    {"name": "University of the Philippines", "category": "Higher Education", "query": "site:up.edu.ph when:30d", "enabled": true, "limit": 12},
+    {"name": "Ateneo de Naga University", "category": "Higher Education", "query": "site:adnu.edu.ph when:30d", "enabled": true, "limit": 12}
+  ]
+}

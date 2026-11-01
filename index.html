@@ -1,167 +1,49 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Your Brand — Modern, Fast, Responsive</title>
-  <meta name="description" content="Official website of Your Brand. We build great things." />
-  <meta property="og:title" content="Your Brand" />
-  <meta property="og:description" content="We build great things." />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="/assets/og-image.jpg" />
-  <link rel="icon" href="/assets/favicon.png" />
-  <link rel="preload" href="styles.css" as="style" />
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="SAGERPRO: Philippine education policy updates, higher education news, research analysis, professional learning and future journal and conference initiatives.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SAGERPRO | Education, Research & Professional Learning">
+  <meta property="og:description" content="Curated education updates and original analysis for educators, researchers and academic leaders.">
+  <meta name="theme-color" content="#102c36">
+  <title>SAGERPRO | Education, Research & Professional Learning</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
 </head>
 <body>
+  <a href="#main" class="skip-link">Skip to content</a>
+  <div class="utility-strip"><div class="container utility-inner"><span>Education • Research • Professional Development</span><span>An independent information & analysis platform</span></div></div>
   <header class="site-header">
-    <div class="container nav">
-      <a class="logo" href="#home">YourBrand</a>
-      <nav>
-        <a href="#about">About</a>
-        <a href="#features">Features</a>
-        <a href="#work">Work</a>
-        <a href="#contact" class="btn btn-small">Contact</a>
-      </nav>
-      <button class="burger" aria-label="Open menu" aria-expanded="false">&#9776;</button>
+    <div class="container header-main">
+      <a class="brand" href="./" aria-label="SAGERPRO home"><img class="brand-logo" src="images/sagerpro-logo.jpg" alt="SAGERPRO logo" width="52" height="52"><span><strong>SAGERPRO</strong><small>Savant Guard Enterprise for Research and Professional Development</small></span></a>
+      <button type="button" class="menu-toggle" aria-controls="site-nav" aria-expanded="false">☰ <span>Menu</span></button>
+      <nav id="site-nav" aria-label="Main navigation"><a href="#updates">Education Updates</a><a href="#insights">Articles & Analysis</a><a href="#initiatives">Our Initiatives</a><a href="#about">About</a><a class="nav-contact" href="#contact">Contact <span aria-hidden="true">↗</span></a></nav>
     </div>
   </header>
-
-  <main id="home">
-    <!-- HERO -->
+  <main id="main">
     <section class="hero">
-      <div class="container hero-grid">
-        <div class="hero-text">
-          <h1>Savant Guard Enterprise for Research and Professional Development</h1>
-          <p>Launch-ready website template: fast, accessible, SEO-friendly, and easy to customize.</p>
-          <div class="cta">
-            <a class="btn" href="#contact">Get Started</a>
-            <a class="btn btn-ghost" href="#features">See Features</a>
-          </div>
-          <ul class="badges">
-            <li>⚡ Fast</li>
-            <li>📱 Responsive</li>
-            <li>🔒 Secure</li>
-            <li>🧩 No backend needed</li>
-          </ul>
-        </div>
-       <div class="hero-media">
-  <img
-    src="images/sagerpro-logo.jpg"
-    alt="SAGERPRO Official Logo"
-    class="hero-logo"
-  >
-</div>
+      <div class="container hero-layout">
+        <div class="hero-main"><p class="eyebrow light">SAGERPRO / Knowledge & Practice</p><h1>Make sense of what’s changing in <em>education.</em></h1><p class="hero-intro">A curated window into Philippine education developments, higher education, research, and the ideas that can shape better professional practice.</p><div class="hero-actions"><a class="button button-gold" href="#updates">Browse the latest updates <span aria-hidden="true">↗</span></a><a class="text-link light-link" href="#insights">Read our analysis <span aria-hidden="true">→</span></a></div><p class="hero-caption">Independent commentary. Source-linked updates. No implied affiliation with DepEd, CHED, or featured institutions.</p></div>
+        <aside class="hero-side" aria-label="SAGERPRO identity and coverage areas"><div class="hero-logo-wrap"><img class="hero-logo" src="images/sagerpro-logo.jpg" alt="SAGERPRO official circular logo" width="320" height="320"></div><p class="eyebrow light">Our editorial lens</p><div class="hero-side-item"><span>01</span><div><h2>Education Policy</h2><p>DepEd and CHED advisories, circulars, and sector developments</p></div></div><div class="hero-side-item"><span>02</span><div><h2>Higher Education</h2><p>Selected HEI announcements, opportunities, and research</p></div></div><div class="hero-side-item"><span>03</span><div><h2>Research to Practice</h2><p>Analysis that lays the groundwork for deeper training</p></div></div></aside>
       </div>
     </section>
-
-    <!-- FEATURES -->
-    <section id="features" class="section">
+    <section class="section updates" id="updates">
       <div class="container">
-        <h2>What you get</h2>
-        <p class="section-lead">Production-ready structure with simple HTML/CSS/JS.</p>
-        <div class="grid-3">
-          <div class="feature">
-            <div class="icon">🚀</div>
-            <h3>Performance-first</h3>
-            <p>Optimized images, minimal JS, semantic HTML, and accessible components out of the box.</p>
-          </div>
-          <div class="feature">
-            <div class="icon">🧭</div>
-            <h3>SEO & Sharing</h3>
-            <p>Meta tags, OpenGraph, clean URLs, sitemap/robots examples, and fast load for better ranking.</p>
-          </div>
-          <div class="feature">
-            <div class="icon">💬</div>
-            <h3>Working Contact Form</h3>
-            <p>Send messages via Formspree without maintaining servers.</p>
-          </div>
-        </div>
+        <div class="section-head"><div><p class="eyebrow">Newsroom / Curated updates</p><h2>Education updates</h2><p class="section-deck">Recent items discovered through configured news feeds. Open the original report to verify dates and details.</p></div><div class="update-meta"><span class="status-dot" aria-hidden="true"></span><span id="refresh-label">Waiting for first feed update</span></div></div>
+        <div class="filter-bar"><div class="filter-buttons" aria-label="Filter updates" id="filters"><button type="button" class="filter active" data-category="All" aria-pressed="true">All updates</button><button type="button" class="filter" data-category="DepEd" aria-pressed="false">DepEd</button><button type="button" class="filter" data-category="CHED" aria-pressed="false">CHED</button><button type="button" class="filter" data-category="Higher Education" aria-pressed="false">Selected HEIs</button></div><label class="search-wrap"><span class="sr-only">Search news</span><span aria-hidden="true">⌕</span><input id="news-search" placeholder="Search headlines..." type="search" autocomplete="off"></label></div>
+        <div id="news-list" class="news-grid" aria-live="polite"><div class="empty-state"><h3>Preparing the updates feed</h3><p>When the scheduled news collection runs, verified source-linked headlines will appear here.</p></div></div>
+        <div class="news-bottom"><p>Aggregation is not exhaustive; inclusion does not imply endorsement. For official requirements, always consult the issuing institution.</p><a href="#sources" class="text-link">See monitored sources <span aria-hidden="true">→</span></a></div>
       </div>
     </section>
-
-    <!-- ABOUT -->
-    <section id="about" class="section alt">
-      <div class="container about-grid">
-        <div>
-          <h2>About Your Brand</h2>
-          <p>Say a short, punchy thing about who you are and what you do. Keep it human. Add a photo, logo, or quick stats.</p>
-          <ul class="checks">
-            <li>Over 100 happy clients</li>
-            <li>Fast turnaround times</li>
-            <li>Transparent pricing</li>
-          </ul>
-        </div>
-        <div class="card">
-          <img src="https://picsum.photos/640/420?random=2" alt="Team" loading="lazy" />
-        </div>
-      </div>
-    </section>
-
-    <!-- WORK / GALLERY -->
-    <section id="work" class="section">
-      <div class="container">
-        <h2>Recent Work</h2>
-        <div class="grid-3">
-          <figure class="card"><img src="https://picsum.photos/400/280?random=3" alt="Project A" /><figcaption>Project A</figcaption></figure>
-          <figure class="card"><img src="https://picsum.photos/400/280?random=4" alt="Project B" /><figcaption>Project B</figcaption></figure>
-          <figure class="card"><img src="https://picsum.photos/400/280?random=5" alt="Project C" /><figcaption>Project C</figcaption></figure>
-        </div>
-      </div>
-    </section>
-
-    <!-- TESTIMONIALS -->
-    <section class="section alt">
-      <div class="container">
-        <h2>Kind words</h2>
-        <div class="quotes">
-          <blockquote class="card">“Super fast setup. We launched in a day.” <cite>— Alex P.</cite></blockquote>
-          <blockquote class="card">“Looks great on mobile and desktop.” <cite>— Jamie R.</cite></blockquote>
-          <blockquote class="card">“The form just works—no backend headaches.” <cite>— Kim D.</cite></blockquote>
-        </div>
-      </div>
-    </section>
-
-    <!-- CONTACT -->
-    <section id="contact" class="section">
-      <div class="container">
-        <h2>Contact</h2>
-        <p class="section-lead">Drop a message and we’ll get back within 24 hours.</p>
-        <!-- Replace the action URL with your Formspree endpoint -->
-        <form class="card form" method="POST" action="https://formspree.io/f/yourFormID">
-          <label>
-            <span>Name</span>
-            <input type="text" name="name" required />
-          </label>
-          <label>
-            <span>Email</span>
-            <input type="email" name="email" required />
-          </label>
-          <label>
-            <span>Message</span>
-            <textarea name="message" rows="5" required></textarea>
-          </label>
-          <button class="btn" type="submit">Send</button>
-          <p class="form-note">Powered by Formspree. Replace <code>yourFormID</code> with your own.</p>
-        </form>
-      </div>
-    </section>
+    <section class="section insights-section" id="insights"><div class="container"><div class="section-head"><div><p class="eyebrow">SAGERPRO / Editorial</p><h2>Ideas before the workshop</h2><p class="section-deck">Original essays connecting education announcements to research questions, institutional decisions, and professional learning.</p></div><span class="section-number">02 / Analysis</span></div><div id="article-list" class="article-grid" aria-live="polite"></div><p class="editorial-note">Editorial previews are marked “Sample draft” until replaced with reviewed, published articles.</p></div></section>
+    <section class="section mission-section" id="initiatives"><div class="container"><div class="section-head"><div><p class="eyebrow">Developing / SAGERPRO</p><h2>Where this platform is heading</h2><p class="section-deck">Our long-term directions are being developed in stages. These are planned initiatives, not yet open services.</p></div></div><div class="initiative-grid"><div class="initiative"><span class="initiative-index">01 / Future initiative</span><h3>Research journals</h3><p>A potential home for rigorous peer-reviewed scholarly publications, with policies, editorial processes, and submission infrastructure to be developed.</p><span class="soon">In planning</span></div><div class="initiative"><span class="initiative-index">02 / Future initiative</span><h3>Research conferences</h3><p>A place to share research calls, conferences, presentation opportunities, and eventually SAGERPRO-organized scholarly events.</p><span class="soon">In planning</span></div><div class="initiative"><span class="initiative-index">03 / Future initiative</span><h3>Professional development</h3><p>Research-informed training and continuing professional development programs, shaped by the questions raised in our articles.</p><span class="soon">In planning</span></div></div></div></section>
+    <section class="section about-section" id="about"><div class="container about-layout"><div><p class="eyebrow">About / Editorial purpose</p><h2>From information to understanding. From understanding to practice.</h2></div><div><p>SAGERPRO—Savant Guard Enterprise for Research and Professional Development—is developing a platform that connects Philippine education updates with research-informed interpretation and professional learning.</p><p>Its initial priority is a useful public information service: selected headlines with links to their originating publications, alongside original explanatory articles that may inform future workshops, research conferences, and journals.</p><p class="disclosure"><strong>Editorial independence:</strong> SAGERPRO is not a government information service and is not an official publication of DepEd, CHED, or any HEI cited on this site.</p></div></div></section>
+    <section class="section sources-section" id="sources"><div class="container"><div class="section-head"><div><p class="eyebrow">Sources / Follow the original</p><h2>Primary reference sites</h2><p class="section-deck">These links are provided for direct verification and are distinct from automated feed coverage.</p></div></div><div class="source-links"><a href="https://www.deped.gov.ph/" rel="noopener noreferrer" target="_blank">Department of Education <span aria-hidden="true">↗</span></a><a href="https://ched.gov.ph/" rel="noopener noreferrer" target="_blank">Commission on Higher Education <span aria-hidden="true">↗</span></a><a href="https://up.edu.ph/" rel="noopener noreferrer" target="_blank">University of the Philippines <span aria-hidden="true">↗</span></a><a href="https://www.adnu.edu.ph/" rel="noopener noreferrer" target="_blank">Ateneo de Naga University <span aria-hidden="true">↗</span></a></div></div></section>
+    <section class="contact-section" id="contact"><div class="container contact-layout"><div><p class="eyebrow light">Stay connected</p><h2>Questions, ideas, or a potential collaboration?</h2><p>Contact details and submission channels will be published here when formally designated.</p></div><a class="button button-outline" href="https://github.com/BernSGP/SAGERPRO" target="_blank" rel="noopener noreferrer">View the website project <span aria-hidden="true">↗</span></a></div></section>
   </main>
-
-  <footer class="site-footer">
-    <div class="container footer-grid">
-      <div>
-        <strong>YourBrand</strong><br />
-        © <span id="year"></span> All rights reserved.
-      </div>
-      <nav class="footer-nav">
-        <a href="/privacy.html">Privacy</a>
-        <a href="/terms.html">Terms</a>
-        <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a>
-      </nav>
-    </div>
-  </footer>
-
-  <script src="script.js" defer></script>
+  <footer class="site-footer"><div class="container footer-main"><div><a class="footer-brand" href="./">SAGERPRO<span class="dot">.</span></a><p>Education intelligence • Research perspectives • Professional learning</p></div><div class="footer-links"><a href="#updates">Updates</a><a href="#insights">Articles</a><a href="#about">About</a><a href="#sources">Sources</a></div></div><div class="container footer-bottom"><span>© <span id="year"></span> SAGERPRO. All rights reserved.</span><span>Source attribution and original publication links are provided for third-party updates.</span></div></footer>
 </body>
 </html>
