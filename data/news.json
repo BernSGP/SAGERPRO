@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T06:02:31.926270Z",
+  "updated_at": "2026-11-02T15:53:11.726568Z",
   "items": [
     {
       "title": "Strategic Foresight Seminar Workshop for LGUs in Sablayan, Mindoro Occidental - UP Center for Integrative and Development Studies",
@@ -99,6 +99,15 @@
       "published": "2026-10-27T09:35:27Z",
       "via": "Google News",
       "feed_name": "Ateneo de Naga University"
+    },
+    {
+      "title": "Oct. 16, 2026 RM No. 1388, s. 2026 – List of Participants to the Policy Review for the Existing Promotional Guidelines in the DepEd - DepEd Region VIII",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1dwRjhnYzIwcU9WYzIzanB2dUZRUDBmcXRWRloxTGNUVTJBQ1lmSHl6NzNjR2w3Qjh0NkJDUXRqeUt0NTg1Q1RDVDY2eng5QnFGaVRNOHY0NW5FdHpyejZFRjZ6UnhHUEZiZ1o3aWRSUndzMVp1SkhGcklXMUxDc01FQkxWU0tMdnRGYXFDbmo3VnlYZ1VOQnh2WllZbVlBeFkwdDFrVE51ZloyQlc1WC1NT3djbmo5WnhKVHY2TFpYSS1mdXE4cUhZSUdGdEZTNWN5WjRnRms2eFMxMGhObFB2WnJGbEh2eWdUclhqMFlqTmlCZ1dtaw?oc=5",
+      "source": "DepEd Region VIII",
+      "category": "DepEd",
+      "published": "2026-10-27T04:39:12Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
     },
     {
       "title": "Untitled - DepEd Cebu Province",
@@ -308,15 +317,6 @@
       "feed_name": "University of the Philippines"
     },
     {
-      "title": "Aug. 24, 2026 MEMO-OM-OUGOPS-2026-07-1722 – Operationalizing Republic Act No. 12080: Orientation of Roles, Responsibilities and Implementation Across DepEd Governance Level - DepEd Region VIII",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPMUVSdDktMnFCcWp1TWVQT2pDaE5jNHJoWGE1UHYybHVhM2lMMUY5WDBwUlJuMDFna1otM2pTbk1vVnNwNnprX25tR29oOFdYczZwekhSZWFmcFB0UXRqOVBuQjliZjAteEV4bUtzcVctRG1IY0RDQTZoZEh5Q3FNLTZDa0RKSDh6ZkhXR1BiWnhLQTJIdG16VU5CWTZtSUFzaDFsXzJwWnJNdnlMaEVqYXQ0Vks4Mi11LW9VWkZYTWVRM0wxbE14aDNBa1hPNnI2Z2tHLWxDUEppYXdjM1dqbWp6YzRSaUFJZzBnY1FNTHlYMGhtRkU5RnY3WXBTYW9WemxrME9oYWRJNFE4c3A4LWM0MVA4eDFrdWdNNE5ZQVJXM2VxMlFnYTNQU1RxbHM?oc=5",
-      "source": "DepEd Region VIII",
-      "category": "DepEd",
-      "published": "2026-10-14T07:00:00Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
-    },
-    {
       "title": "UP alumnae lead Philippine CEOs in Fortune’s Most Powerful Women Asia - University of the Philippines",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFpVaEdtdVhacWVhM0Z1WW05R2hJd1RKVHNZc2hNZzdULThic1hwLWZ2MmU4ZkU3c2dZbFlUSkcxTXAyQTV3dG5zNUQ5R1VNV2JQZ01nSVdpcDFGUzZEQ1E1ak5tcGNmVFdKSFpodHlULWhXYmJacjk2WGJyd01Jcl9LUlUxLVQzc3RENzNqLTg?oc=5",
       "source": "University of the Philippines",
@@ -479,20 +479,20 @@
       "feed_name": "Commission on Higher Education"
     },
     {
-      "title": "𝐑𝟏 𝐇𝐄𝐈𝐬, 𝐂𝐇𝐄𝐃 𝐑𝐎𝟏 𝐚𝐭𝐭𝐞𝐧𝐝 𝐀𝐒𝐄𝐀𝐍 𝐇𝐢𝐠𝐡𝐞𝐫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐏𝐨𝐥𝐢𝐜𝐲 𝐃𝐢𝐚𝐥𝐨𝐠𝐮𝐞 - CHED Region 1",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOQVEwVi1SbnIxdDlXT2ttMi10N0RuY2RBcGN6UXJQcVV1Qy05eVoxY29xWF9lUnBsTkwzcnp3UWU4RnNfbmxWZ0NGSTdibUhMUUw2YUZDcVk3OE1qSk8wYldwTHhFNm1LMlAtMkxRdHpiT0RwZWo5dFdtTTFWWXFHN3JETjJzSHpWREUxZlNFblNKS3ZodlZ4YWRlWkhjSGtnbFRDd0xYSGNvWmVkaDNlUlN3WXhVYXhMek1heU1lcnVsSmJKbDhBcTdjSDJxTldHRXAwQmRxQWk2blBXWkRFNlQ0TW9abUI4R241NXFGTVRZQnVVTW9Ic2RYZG9QbDlhZGFRYnRiUURBUlF3SHZkZ3ExQm55ZW00WnVvSjZHTHRIdDRMaVNPLVZFTEJSZkcwbDFzS094R185VmZiT3NmOGZ2WGlfd2R2?oc=5",
-      "source": "CHED Region 1",
-      "category": "CHED",
-      "published": "2026-07-13T08:45:35Z",
-      "via": "Google News",
-      "feed_name": "Commission on Higher Education"
-    },
-    {
       "title": "AWARDS & COMMENDATIONS - region12.ched.gov.ph",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUnBiODBGdHpqTXJiZ2NPNGYxc3g5aHlHYzFiYXA1cW5BcTAyUEpjNHJSckFXZFBFUXhKU0dfSWhyOF83bFFMU2V6UkhOS1NnM0c1Ti1mY0phU2M?oc=5",
       "source": "region12.ched.gov.ph",
       "category": "CHED",
       "published": "2026-07-10T10:31:09Z",
+      "via": "Google News",
+      "feed_name": "Commission on Higher Education"
+    },
+    {
+      "title": "Commission on Higher Education Region VII | CHED Region VII - region7.ched.gov.ph",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HN0JKcjhRcUw3ejFYckVVTnlfYzg0VXFKZUxhUmI4cEdDSllQT2lXR3A1NGRGSDl0NFNjQnZPYjVxUQ?oc=5",
+      "source": "region7.ched.gov.ph",
+      "category": "CHED",
+      "published": "2026-05-13T11:52:34Z",
       "via": "Google News",
       "feed_name": "Commission on Higher Education"
     },
@@ -504,6 +504,15 @@
       "published": "2024-12-08T18:05:54Z",
       "via": "Google News",
       "feed_name": "Commission on Higher Education"
+    },
+    {
+      "title": "WinS - DepEd Region VIII",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhMUs1eDFpUWtxaVVrU01fazhmWVNjcURiNk84RHhIMEZLZmtNZjRLRUZjSW5LUTZqRGFZdUhyWVBDdTJEMHgyVGhIWDlub1k?oc=5",
+      "source": "DepEd Region VIII",
+      "category": "DepEd",
+      "published": "2024-06-30T03:23:53Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
     },
     {
       "title": "Citizen Charter (CC) Service 9 - CHED MIMAROPA Region",
@@ -522,15 +531,6 @@
       "published": "2022-07-26T17:31:05Z",
       "via": "Google News",
       "feed_name": "Commission on Higher Education"
-    },
-    {
-      "title": "Vision, Mission, and Core Values - DepEd Region VIII",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNkVMcVdTVGl3bmZqNkRWakJocXdjazhKVWFpWUZ2akVhUjFuNDhjVnRPbHU5YjJvUEpLMm56WWs2QndtRVZUOEJIa3gyZ2d4WHBjR3g0VGxvd0I4bS1wRzRlSDE1Q0FQd1V6Vw?oc=5",
-      "source": "DepEd Region VIII",
-      "category": "DepEd",
-      "published": "2020-07-03T11:21:43Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
     }
   ],
   "sources_ok": [
