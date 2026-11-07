@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-06T19:24:49.303184Z",
+  "updated_at": "2026-11-07T05:58:04.934144Z",
   "items": [
+    {
+      "title": "Department of Education - quezon.deped.gov.ph",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHdlRnM0SWxubGRnU19iZmM4aVM1TG56elpObzBSenZsdk5LRjRRRHU5UXozcG9WWnNzVFFFQXg4a1lLdEtFcUpyTEZJMGRmM0VXczRobjhoM2lXd2NHQk1ycUxxdXFZbWZHT3VkSUViQmZMLTdGWjBYaE0wNFBNTGM2Q29LeGM4QS1abWg4WjQtUWFLMVBRNWdQRXY2SzNQcm5vUVNDUmhOdjA?oc=5",
+      "source": "quezon.deped.gov.ph",
+      "category": "DepEd",
+      "published": "2026-11-06T23:09:07Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
+    },
+    {
+      "title": "Benchmarking & Reporting Institutional Development for Global Engagement - Commission on Higher Education (CHED)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYN3hVY1lUVnhEdDdyeW9lcVFVTHFFQjY2ejhGZFowV001bVFDWGlVTFVuSFNYRlJRMFZtdUxqQnFENnNTeVBUeHRobnNZdw?oc=5",
+      "source": "Commission on Higher Education (CHED)",
+      "category": "CHED",
+      "published": "2026-11-06T06:57:26Z",
+      "via": "Google News",
+      "feed_name": "Commission on Higher Education"
+    },
     {
       "title": "UP is among the top 5% in Asia for employer and academic reputations, according to the latest rankings - University of the Philippines",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcnhxdkcwLUFLQUZOOWkzUk1nVG5JaGN6Z2Z3V3pxM0hnMHR5cWZISktnRnRaTWxGQmpkYzVwbk8zdkNMYU8zckQwcU5MMENIU1VmWHZCSERZbFZFNFZTNTNMeWFpM3lfaTFuVWFtdGYxSFlxcGUzMUx6MTg3dmpMS0ZVcVBlbjYzbWRwdWYycVhMZ3g4SG5scWJCcHM5TUM3Z2x4Y3VzVXk2b3BEalpQMTZZNWNielJTa0puQk5GNTdTRWxMcGdjeEdn?oc=5",
@@ -36,24 +54,6 @@
       "published": "2026-11-05T20:40:55Z",
       "via": "Google News",
       "feed_name": "University of the Philippines"
-    },
-    {
-      "title": "Basic IACUC Webinar - UP Alumni Website",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wdGNTMlJjc1N3TzJKLU1yTWJUMF9Fd0g3OXZNZlVfeklQR0xWV1NUNHBUb1VTeUY5eXNKOE5TaHBPYWJ6aWUwVGlOZDBuZFNSSkJyODFVS0FUaV9Od2lIMFFR?oc=5",
-      "source": "UP Alumni Website",
-      "category": "Higher Education",
-      "published": "2026-11-04T18:59:19Z",
-      "via": "Google News",
-      "feed_name": "University of the Philippines"
-    },
-    {
-      "title": "Benchmarking & Reporting Institutional Development for Global Engagement - bridge.r5.ched.gov.ph",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYN3hVY1lUVnhEdDdyeW9lcVFVTHFFQjY2ejhGZFowV001bVFDWGlVTFVuSFNYRlJRMFZtdUxqQnFENnNTeVBUeHRobnNZdw?oc=5",
-      "source": "bridge.r5.ched.gov.ph",
-      "category": "CHED",
-      "published": "2026-11-04T06:56:35Z",
-      "via": "Google News",
-      "feed_name": "Commission on Higher Education"
     },
     {
       "title": "Beyond the Classroom, Across Borders: ADNU Students Experience Global Citizenship thru Jesuit Education - Ateneo de Naga University",
@@ -137,6 +137,15 @@
       "feed_name": "Department of Education"
     },
     {
+      "title": "Deped Region III Distributes 1,000 Edukahon Across Central Luzon - DepEd Region III",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUxkUVg2bHdYNDItZ05nZGp0SmIxS2ZsTzNsVFZPZ01WN1ZBMzdVeWswWmtoQkM0c1JiZTZaTkE3X1pOTXBoTnJyR3Byak9oRnpJUEJVUDNyUWlxRHY4MzZqUkFtRDRQa3dCeVBIV0s4ajltT2R2UUhiWWhQb3U4bWZXTnNXc1V0UGI0SGtfTDk4TjJLaEE4Tw?oc=5",
+      "source": "DepEd Region III",
+      "category": "DepEd",
+      "published": "2026-11-03T18:11:59Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
+    },
+    {
       "title": "ADNU Grad School Conducts Service Learning Activity at Panagan National High School - Ateneo de Naga University",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblgxeUJqVWJZdGxaQlZlQXlkVTJ0V1liLXlLZERFMDB1WTlWY09UYjRCQURlWFRtVWUxOVN3azZocXNEZ2pRc3FiaUZNNWhzU003cDhXQUgteDZoQXlTYW1SM1dHVkVPN2d4cGlMbXV4b0w1aDRNNGEzeU1qWFp2cXltenRadVFjd0dXcG92VW9jaThmamNuNE1PbDhLNXJvU3BmN0NJWUZfYU9tNXFYY1hLWUhJSWUyZm54Y3Q1c1lXUQ?oc=5",
       "source": "Ateneo de Naga University",
@@ -144,15 +153,6 @@
       "published": "2026-11-03T09:26:44Z",
       "via": "Google News",
       "feed_name": "Ateneo de Naga University"
-    },
-    {
-      "title": "Regional Memoranda - DepEd Region VIII",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWnBEZmlzaUttdUJaUFFoSHA4dUtEcldOYTVlc2FGTHNnMXI3M3ZRM2VDMnhGOFo4THFkNUpsdkJFd1VpSUp1NmFpbnlGSUJIQS1XQm5yMDZ1NnJ1OS01ZXZBSWhmQk02bEpSNEE0YWZDa0s0TFIyNnRqWVAxYkNOT0dn?oc=5",
-      "source": "DepEd Region VIII",
-      "category": "DepEd",
-      "published": "2026-11-03T06:03:34Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
     },
     {
       "title": "Saskatchewan Minister visits UP president - University of the Philippines",
@@ -164,20 +164,20 @@
       "feed_name": "University of the Philippines"
     },
     {
-      "title": "Strategic Foresight Seminar Workshop for LGUs in Sablayan, Mindoro Occidental - UP Center for Integrative and Development Studies",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFA1WFJZUjdOVjBreDQ5UEIxanE0Zk8tSmwzU2RvY2xNenV3ZVFta2hzM1loWHRoZnVhbDhxdFNzenctcDc2NnVicEpZZnpSdXVnMU1kbnRtZ3lzTFBtMGRMTmp3VjdyN3EzTndhYVAzeGFnM2lnOWFxTTFGVzFFYmZvS0l6eWVrYWZvcUU4ODVLbGJCdTk2Uw?oc=5",
-      "source": "UP Center for Integrative and Development Studies",
-      "category": "Higher Education",
-      "published": "2026-10-30T06:28:51Z",
-      "via": "Google News",
-      "feed_name": "University of the Philippines"
-    },
-    {
       "title": "Pax Silica in light of the Magnifica Humanitas - UP Center for Integrative and Development Studies",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wcEd5SnZxTWFRWnhTcl9BN2swY1YyV3JZY0thREpFZFlaMEVINjZUNERCVmxDbF9TRWZnSzl0d1lxeEdtUDhldHlNZnJnTDVPdTY1VTZNUFMxbmpwcmlVMno4SmhqNG5DV3RvRA?oc=5",
       "source": "UP Center for Integrative and Development Studies",
       "category": "Higher Education",
       "published": "2026-10-30T06:13:09Z",
+      "via": "Google News",
+      "feed_name": "University of the Philippines"
+    },
+    {
+      "title": "UP extends nomination deadline for next Faculty Regent to Nov. 4 - University of the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTNIS1J6Ny1OQ2h0TjZCVGpqSDJwYWl1Z0FqbEQ5b2ZsQnhIdWppM19hY09fRDFyVXJLNUJIWkoxYnZ6d3JiYVZNX0QzbzhmbEtqNkNGekpYaUtvYzNwS25kS3g2OE9ZZWZmeGlGWFhfMDlzT2lLYTBDN09fV1paSzdONXI4OFRLWUE?oc=5",
+      "source": "University of the Philippines",
+      "category": "Higher Education",
+      "published": "2026-10-29T01:14:22Z",
       "via": "Google News",
       "feed_name": "University of the Philippines"
     },
@@ -290,6 +290,15 @@
       "feed_name": "Commission on Higher Education"
     },
     {
+      "title": "UP honors Team PH archer Aya Paz Cojuangco - University of the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01dElXdGhaS19vS2ZKczNEamo0RTY3QXJQUzdzbDhZSXA4YWNGRTBYTlBTeDBvRGR1bzFXZDFsc2xzVmdZUDU5TzEyVDRCMk81NEkzUDN0X3BJT2xabGZLVUpHOFZsR2NTejhWRE93?oc=5",
+      "source": "University of the Philippines",
+      "category": "Higher Education",
+      "published": "2026-10-23T07:00:00Z",
+      "via": "Google News",
+      "feed_name": "University of the Philippines"
+    },
+    {
       "title": "Oct. 21, 2026 RM No. 1368, s. 2026 – Invitation to the 18th National Congress and Seminar-Workshop of the DepEd – National Employees Union - DepEd Region VIII",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWkkzMEN3blNrR1cweGhJVEkxa0FfVDhQampYTmZGUTY3X0VnUFJXbkRzOUVTNXRLWHdlbVVTN1VweDdrektTZ09EQVA5ZFhEZ05NZ0ZBMDFFdGxMR1ZtUXMwOEZnSmNNZFRHZlNnZ3ZDMjAzZTctYjB0dl9nQWd1N2k1WEZONEJvUGFUYVpkTHh6cmlpcER0Tm5jY3BzaWlHSUZRd2VBX3FRN1AwdWlKNDJkZzVnbmgzcjlrWTgzb1pxUFplbGpfaVBsQ0ctT1hvOGU0NEFqQW12Q080TVJRckhjMy1hNUJQekRSZnZ2ZmJDTV8zcW52Y1NYdHdsQ00?oc=5",
       "source": "DepEd Region VIII",
@@ -344,15 +353,6 @@
       "feed_name": "Commission on Higher Education"
     },
     {
-      "title": "Animal bites as a public health and governance concern - UP Center for Integrative and Development Studies",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzcGJDamM5VVBBVlpCLU9VemVUaF9KTEhhODNoc29tVDFreGlRc3JBUDJRREN6b1hiTkxIa3VmRlJZd2dnNGVsdDZCdmlURG13SkhSeHRvZnFzRmJFWFNibjJvcThrQW1PYU13RUo1VHpJUnBlWXcwUQ?oc=5",
-      "source": "UP Center for Integrative and Development Studies",
-      "category": "Higher Education",
-      "published": "2026-10-19T07:00:00Z",
-      "via": "Google News",
-      "feed_name": "University of the Philippines"
-    },
-    {
       "title": "OSDS holds consultation with student leaders - University of the Philippines",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ka1JLMjI0VEtFUHdiSlVjTlZ5WTNPcFMxV3JDOHlZUk04LUJKR1dYaG1hNjVsempMN1dGb3RFcE5xblUwS2NkN0xTOWVycjVEQ2pwU2I0TjZkTWhCQUVhNmhkT1IwZmxFazV4V0gyNWs?oc=5",
       "source": "University of the Philippines",
@@ -362,13 +362,13 @@
       "feed_name": "University of the Philippines"
     },
     {
-      "title": "CHEDRO3-Commission on Higher Education Regional Office 3 - region3.ched.gov.ph",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oeFNBZmswOVpQY25GSl9sUVpwYldYbGZHdl83UUNvZllRdmFLMDlaS05YOXJfUThRRFd4Rmw1bFlwVXVtenBVeFRpZG84UzhXWFE?oc=5",
-      "source": "region3.ched.gov.ph",
-      "category": "CHED",
-      "published": "2026-10-19T05:01:20Z",
+      "title": "UP hosts reception program for UNESCO-UNITWIN delegates - University of the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtendlRU9RS0UyMWp0QkpwOTNfSTQ3M1AyQzA2UUduc1BEY3RTZWc4S3A4eGJ5WjA3cURQR2Y4dGp4Vms0NjEzRnYyUVdfT0tBTGlHNmhSemlOeFBzTkNJY1RhWnlodjZud0E4Y2RTbTRCZW8tTlBxRHlSczl3VFk?oc=5",
+      "source": "University of the Philippines",
+      "category": "Higher Education",
+      "published": "2026-10-19T06:20:20Z",
       "via": "Google News",
-      "feed_name": "Commission on Higher Education"
+      "feed_name": "University of the Philippines"
     },
     {
       "title": "Leadership/Governance - Ateneo de Naga University",
@@ -378,6 +378,15 @@
       "published": "2026-10-14T22:14:25Z",
       "via": "Google News",
       "feed_name": "Ateneo de Naga University"
+    },
+    {
+      "title": "CHEDRO3-Commission on Higher Education Regional Office 3 - Commission on Higher Education (CHED)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oeFNBZmswOVpQY25GSl9sUVpwYldYbGZHdl83UUNvZllRdmFLMDlaS05YOXJfUThRRFd4Rmw1bFlwVXVtenBVeFRpZG84UzhXWFE?oc=5",
+      "source": "Commission on Higher Education (CHED)",
+      "category": "CHED",
+      "published": "2026-10-12T07:00:00Z",
+      "via": "Google News",
+      "feed_name": "Commission on Higher Education"
     },
     {
       "title": "All courses - learning.deped.gov.ph",
@@ -425,15 +434,6 @@
       "feed_name": "Commission on Higher Education"
     },
     {
-      "title": "🎉 𝐇𝐚𝐩𝐩𝐲 𝟒𝟖𝐭𝐡 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐢𝐬𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐑𝐢𝐠𝐡𝐭𝐬 𝐖𝐞𝐞𝐤! - CHED Region 1",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOaWlEeTFWMWd1ejU0c1RTeHNqcU82ZGtraHZ5SmdEZ2h6bkVuZjFENWNwLWkxeFBEX3AtQXRqdmw5bVc1NUpNSGNNZzJ4alhCTW1uZEhlNjc4ZmtDclp0R2w4Q1B4RVBOU3FFNkZVZkM1LWVkZ1VSOS1acVZDQThHYzdyY1FFVVBwZjRvVGM4QnQ1QjRxc3ZObFIwSzZ4Z21YQ2tXTWt2NlVaNG9OdnJVUnZIcWFpMGV5RHNTLW9WSHAyd3Y4cG1VZ0czSnVTUXFjMUtfYnZ2UVNpRlFmU1RFbU9qbUtkNW9WZTNGZE1OOFF4LVNlWEVob0JTazc4c3AwRDJ0X0VoMkpkYXdOX1prbEk4WTA4Ukhkd2MtU0JSZFNCU193dXNXMUxQYTFGb1pKR3IzbDF5YnVlV2FOODlROGRvUkJYQVE?oc=5",
-      "source": "CHED Region 1",
-      "category": "CHED",
-      "published": "2026-07-30T18:20:27Z",
-      "via": "Google News",
-      "feed_name": "Commission on Higher Education"
-    },
-    {
       "title": "𝐂𝐇𝐄𝐃 𝐑𝐎𝐈 𝐒𝐀𝐎 𝐣𝐨𝐢𝐧𝐬 𝐆𝐀𝐃𝐓𝐢𝐦𝐩𝐚𝐥𝐚 𝐯𝐚𝐥𝐢𝐝𝐚𝐭𝐢𝐨𝐧 𝐭𝐞𝐚𝐦 𝐟𝐨𝐫 𝐒𝐔𝐂𝐬 - CHED Region 1",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOM2Nxdzltc1NoZ0FqVEVOVzJTQUNPY2JSeEcxUHhrN3V3Uk1LN1d6VDBvUXFFRm1jdkpvam9yeEE5NHJGUWdpMUdmU0lXeW10YW1IdjctSlNhS0sxWEdGV1lweFJkbFh1MDgtZXRYQkxNX2U1ZWhmS0x4eTBQcEpHckx3SkkyRmlRbm1QQjJiX0d4dVVYc3RFYmV1RmhQQUo3Mm4wbmZJeXhsaHJUdEdCQ05fUGxCRmJsRDhLbzVoLVdFckRsdzZCU3lLd2hxQVVDdEhpbEVxcWpCYUhrTFhRcEtMbXk0ZkM2ZUF4Um0yTVNFMk5VZHY3X0lhcHRQeUc1MkdjaWxHU1R3YnZ2WHFqNXd6cG1QWElXcVBlU0dTVWd2MkhaLVByX19mS01Nbmg0RklueXRBVDBTTm5QVzE2S3Y4YXlZcTRV?oc=5",
       "source": "CHED Region 1",
@@ -448,6 +448,24 @@
       "source": "CHED Region 1",
       "category": "CHED",
       "published": "2026-07-14T23:44:41Z",
+      "via": "Google News",
+      "feed_name": "Commission on Higher Education"
+    },
+    {
+      "title": "𝐌𝐌𝐒𝐔-𝐋𝐚𝐨𝐚𝐠, 𝐏𝐒𝐔-𝐁𝐚𝐲𝐚𝐦𝐛𝐚𝐧𝐠 𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐳𝐞𝐝 𝐚𝐬 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐧𝐭𝐞𝐫𝐬 𝐨𝐟 𝐄𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐜𝐞 𝐢𝐧 𝐓𝐞𝐚𝐜𝐡𝐞𝐫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 - CHED Region 1",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOQUZzZWNUTXZqbmh0eTgzSWR6V213bHV1VGlYbHdjd1diWGhhaFZDeU93Tmp0NnEzLTRtUlpSRXBsWWx1VWh3R0pEalg5a2tFNkNzblNVaUpFNFZZX1hfQTVBeE1WUnZnTkJFZ1dsaEc4S3M3X01idnd3M2d5WHJBWU50ZnhhUm9hV2dSMi1RNHhZY0tjOG5oNUVwbzFKWnZVdUM0SmszY1JnSnpSaHAyQlNFVFZrZHIyZ2N5MW1FWXNsYnZuU3J1RThFM1pCWWlfRjhuZEw2NWFHVzIxY1JhMkZBblBjaGpIcW4zZFNRcll1N2ZZNkhqY2dJMFk2TFlzLXdNR2YtMVI3b2ZOWmpITUh6Q3libUlkMU85SXVvWW5ROC1VYmNpOS1fNVg1cWFkRTM1M2hiTUtGWUc0U3gtSThFckZ6VmM?oc=5",
+      "source": "CHED Region 1",
+      "category": "CHED",
+      "published": "2026-07-13T23:23:24Z",
+      "via": "Google News",
+      "feed_name": "Commission on Higher Education"
+    },
+    {
+      "title": "CHEDRO3-Commission on Higher Education Regional Office 3 - region3.ched.gov.ph",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlNXl4T1hUandTUXVHTzRPSFV5cXBsTFFoTmdSakpHSk1RN1ZBVU9Ra2ZDbUNVVkpGNU1UbkJaQUE0eGdicXl6R0k2N242UQ?oc=5",
+      "source": "region3.ched.gov.ph",
+      "category": "CHED",
+      "published": "2026-05-26T03:44:11Z",
       "via": "Google News",
       "feed_name": "Commission on Higher Education"
     },
@@ -495,15 +513,6 @@
       "published": "2023-07-13T20:58:30Z",
       "via": "Google News",
       "feed_name": "Commission on Higher Education"
-    },
-    {
-      "title": "BLSS - DepEd Region VIII",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJc0RoRzdROTdSRWpmSnI3S3NHZzlHbVhENzhfLVdiWmF5dW83Vm15Q2o5cDI2WUFQUEd0dGo4UERjRmM3M1p4NU9aQ2ZDWGM?oc=5",
-      "source": "DepEd Region VIII",
-      "category": "DepEd",
-      "published": "2023-05-09T10:42:49Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
     },
     {
       "title": "CHED MIMAROPA Region | CHED MIMAROPA Region Website - CHED MIMAROPA Region",
