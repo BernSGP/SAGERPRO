@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T07:17:55.323844Z",
+  "updated_at": "2026-11-10T19:43:44.445540Z",
   "items": [
     {
       "title": "Meet the nominees for the 2027-2028 UP Faculty Regent Selection - University of the Philippines",
@@ -38,20 +38,20 @@
       "feed_name": "Ateneo de Naga University"
     },
     {
+      "title": "Department of Education - quezon.deped.gov.ph",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHdlRnM0SWxubGRnU19iZmM4aVM1TG56elpObzBSenZsdk5LRjRRRHU5UXozcG9WWnNzVFFFQXg4a1lLdEtFcUpyTEZJMGRmM0VXczRobjhoM2lXd2NHQk1ycUxxdXFZbWZHT3VkSUViQmZMLTdGWjBYaE0wNFBNTGM2Q29LeGM4QS1abWg4WjQtUWFLMVBRNWdQRXY2SzNQcm5vUVNDUmhOdjA?oc=5",
+      "source": "quezon.deped.gov.ph",
+      "category": "DepEd",
+      "published": "2026-11-06T23:09:07Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
+    },
+    {
       "title": "DCP TRACKING, REPORTING, ACCEPTANCE, COMPLIANCE, AND EVALUATION SYSTEM - dcptraces.deped.gov.ph",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pWC15U2w4RktMUGxxZEpnTDR3N09LWDdJVGR2SUNDdkxVVTQxcFFwM0dRaHdQUjJPRE5pb2pIRWthTlkzMHc?oc=5",
       "source": "dcptraces.deped.gov.ph",
       "category": "DepEd",
       "published": "2026-11-06T03:52:14Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
-    },
-    {
-      "title": "Untitled - quezon.deped.gov.ph",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkdwbkR2WVVfdVJRMi1DczAwcGdpanE3dDVORzVUakEtUENhZ05qUGdWQTlyWmg5RUFSUmZGdk5IbGxYMllDVHZfTmFnWWVTOG1BOEszcktNNGg0Rk1DblpHMjNDeEczTWFsU0VJUkRjLXNOejJqU2xHaVF4Njh6RXlsTWxMM3lTc3RkY1FSWG9NVkJDN3YwZ1dKYVliSkZjZ2RDd1g3cEh5bUU?oc=5",
-      "source": "quezon.deped.gov.ph",
-      "category": "DepEd",
-      "published": "2026-11-06T03:21:06Z",
       "via": "Google News",
       "feed_name": "Department of Education"
     },
@@ -70,15 +70,6 @@
       "source": "DepEd Region III",
       "category": "DepEd",
       "published": "2026-11-04T04:48:30Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
-    },
-    {
-      "title": "DepEd Gapan City Division Memorandum No. 349, s. 2026 - DepEd Region III",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLU53S3RRUGx6MUJ5bmE1RWNVLWtlQ0g4alJNNTkyMmk4b0RJU1pyc2tGNzNmQmRvQmplc1kxbk5QMkp1OVZMblpPcHVLb3ZGTUFHdWRPX01kamlBbFJfREU1b21XaXQ5eGV2dHh6bUdUYVBYb1lHN2IwLVlkRk1KUUdfYllyRW9CdnBicVQ0Zw?oc=5",
-      "source": "DepEd Region III",
-      "category": "DepEd",
-      "published": "2026-11-04T04:13:05Z",
       "via": "Google News",
       "feed_name": "Department of Education"
     },
@@ -128,6 +119,24 @@
       "feed_name": "University of the Philippines"
     },
     {
+      "title": "DM No. 442, s. 2026 – Requisition and Creation of Official DepEd Email Account - Schools Division of Zambales",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlVOSzY0QzR4MjJoYjJLdURDbVdkV0o1Zm9ydWk2Z2N2TUVieUlkeFRwR3lBMC1SYUFuNkxuMW1qRE8tVGtLMThTQWNwZDhsd29uVElOWFhFTEh2b3NnaXZDbFlYcTMyME01QWNRMXBaNGp0TjZBT3padHE0OTJ3TER1NHdwWlpBM3hvUXFjNGJjOFREOG82Ny1penF1WXA1amRPamVxYWlSQWVLd2M0cW1sVmZ5UQ?oc=5",
+      "source": "Schools Division of Zambales",
+      "category": "DepEd",
+      "published": "2026-11-03T00:46:51Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
+    },
+    {
+      "title": "Oct. 21 2026 RM No. 1404, s. 2026 – Adoption and Utilization of Project Rapid (Research Approval Protocol for Institutionalized Documentation) in the Management of Non-Berf-Funded Research in DepEd R8 - DepEd Region VIII",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOelVYS0prbU1kOWVyU3JUM2cyTUJQWmZDT2NlQzFabThxRkh2VEhOdWFpbmVPTEFYOHdPcHJUXzJaRGUzR1pIQ0Rod05MTmx1V0drVkJ0UktfQ3NyRFdnSEZFYXRhRTloUUwtQndPaUhhYkdidjFNWWh5ems4VWZvQU5qRlNfZ3B4Tl9DcGpaQU5vUDFZX1hRMHdGeVJMVl90WlRnREw1ZjdxY2xFVFFlXzFobDRyclhTemJGcVFqSmhYLUtYQVFuSHk4bk9zUHVwczkwekZidFprYW9COG9kU05jTnJCM0dOZy05S0VRNDhEclBTSVN1UXdmVmlRVlhqNnNyMnNOX2R2V0F1alRfRTB5OTFDak5YNFNmQ2xWM1ptVGhFZ1hoSEhZT0g2UEJneDlTclExN1hjUmJBZ1lENTFHV1V1UWoyTm9PMklWUG1aREE?oc=5",
+      "source": "DepEd Region VIII",
+      "category": "DepEd",
+      "published": "2026-10-30T04:38:56Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
+    },
+    {
       "title": "DM No. 436, s. 2026 – 2026 DepEd Zambales Pillars of Excellence Search for the Most Outstanding Teachers, School Heads, and Non-Teaching Personnel - Schools Division of Zambales",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQT0txS2xPZVVLWXdKUTFtajJpRm4tTXN6Qy1fQl9XMGFBaUtxbVBadkFpejFnSzZXOVl5WTBLY25VcTNKZ2dVVS1vWDJvM2VXME8wUDkyWk1hVTVJbUMtM2JyYnU1SzlRbWpNVGVZYXkwcHdWSl9DSTZQVi05UlpXV0ZlWWtkR0dTM1IyeGQ1YkZQdnYzSDRuc05VYlp4Si1qUUptSk1CZnpPV3g5QWdabmhiaFBNVTZjNlNocFFjV2lCWWwyMjRWd0FZd29yTWZFRUE0T2lEb01VSHE2MzlaRzlERmxLWUR1a1V0N1dYNVJ4ZHlrWjE0bVFKRzFuRDkwMk02WW9HYi10S0FRdlE?oc=5",
       "source": "Schools Division of Zambales",
@@ -144,15 +153,6 @@
       "published": "2026-10-29T01:14:22Z",
       "via": "Google News",
       "feed_name": "University of the Philippines"
-    },
-    {
-      "title": "DISSEMINATION OF DEPED ICTS MEMORANDUM NO. ICTS-OD-MEM-10226-T3-1, RE: NOMINATION OF TEACHERS AS RECIPIENTS OF THE DCP LAPTOP FOR TEACHER PACKAGES (FY 2025C AND FY 2026) – Department of Education – Schools Div - DepEd Bukidnon",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wYTZ3T1ZBWW5tajZDemxrdThDeEdJbVFSQ3lMcUN2QXZPOTFodlV5LTJ1N2dUUEt3LXdVcW9OVzhoeWE1Q3hLLXJwaEJCdVdWMXkxcmUtNnJoTmFRMDlOU0FwU0pONEdNTXMyYWNVUWhUSVlBXzc2ODRybEN1aVU?oc=5",
-      "source": "DepEd Bukidnon",
-      "category": "DepEd",
-      "published": "2026-10-28T13:05:59Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
     },
     {
       "title": "SIGNING OF THE MEMORANDUM (MOA) BETWEEN DEPED SDO BUKIDNON AND PHILIPPINE CARABAO CENTER (PCC) FOR THE SCHOOL-BASED FEEDING PROGRAM – MILK COMPONENT – Department of Education – Schools Division of Bukidnon - DepEd Bukidnon",
@@ -245,6 +245,15 @@
       "feed_name": "Department of Education"
     },
     {
+      "title": "Oct. 16, 2026 RM No. 1388, s. 2026 – List of Participants to the Policy Review for the Existing Promotional Guidelines in the DepEd - DepEd Region VIII",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1dwRjhnYzIwcU9WYzIzanB2dUZRUDBmcXRWRloxTGNUVTJBQ1lmSHl6NzNjR2w3Qjh0NkJDUXRqeUt0NTg1Q1RDVDY2eng5QnFGaVRNOHY0NW5FdHpyejZFRjZ6UnhHUEZiZ1o3aWRSUndzMVp1SkhGcklXMUxDc01FQkxWU0tMdnRGYXFDbmo3VnlYZ1VOQnh2WllZbVlBeFkwdDFrVE51ZloyQlc1WC1NT3djbmo5WnhKVHY2TFpYSS1mdXE4cUhZSUdGdEZTNWN5WjRnRms2eFMxMGhObFB2WnJGbEh2eWdUclhqMFlqTmlCZ1dtaw?oc=5",
+      "source": "DepEd Region VIII",
+      "category": "DepEd",
+      "published": "2026-10-27T07:00:00Z",
+      "via": "Google News",
+      "feed_name": "Department of Education"
+    },
+    {
       "title": "INVITATION TO BID – PROCUREMENT OF SECURITY SERVICES OF DEPED RO 3 COMPOUND MAIMPIS, CITY OF SAN FERNANDO, PAMPANGA AND NEAP 3, PULUNGBULU, ANGELES CITY (EARLY PROCUREMENT ACTIVITY FOR FY 2027) WITH P - DepEd Region III",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQY1VXRGJMUjhUNXlmcEJQUUdDUk9wNEJiY1VEOUpGY2xzZTBILVhhRFZ1alJySnRUQVVhTFh0Z0l6c19kX1ppbFVKYXpXNVVTNkpiTmRCR2FJRjdwZVNFQWQwdFhDVlAyOGQyYUV3YTlTbHZTU05UamZrVExjNThYVUowOG1PQ2RiQmJtXzhzYkxBRlpReURVN1c0MUQtcThad3MwZUx4TzI2NHhXTDZwUFY2ckJYR3A2a1dDei1ER1oxbG1YMUxmMUo3c2UwYm9oYUlyMDI0bmw5dHNwajhyVlgybzNqZ0F5VjhNcFcybzgwYmdaWThZdjRMc2dVeFQzcHpIcC12U0ZFMnUzbXY0UGU0TU13aGExOXBtdVdkTDE0RExvS1RVMUVsY0JoMUc1UDBUMjU0eVpnS19WZFZvb0h3?oc=5",
       "source": "DepEd Region III",
@@ -306,15 +315,6 @@
       "published": "2026-10-23T07:00:00Z",
       "via": "Google News",
       "feed_name": "University of the Philippines"
-    },
-    {
-      "title": "Oct. 21, 2026 RM No. 1368, s. 2026 – Invitation to the 18th National Congress and Seminar-Workshop of the DepEd – National Employees Union - DepEd Region VIII",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWkkzMEN3blNrR1cweGhJVEkxa0FfVDhQampYTmZGUTY3X0VnUFJXbkRzOUVTNXRLWHdlbVVTN1VweDdrektTZ09EQVA5ZFhEZ05NZ0ZBMDFFdGxMR1ZtUXMwOEZnSmNNZFRHZlNnZ3ZDMjAzZTctYjB0dl9nQWd1N2k1WEZONEJvUGFUYVpkTHh6cmlpcER0Tm5jY3BzaWlHSUZRd2VBX3FRN1AwdWlKNDJkZzVnbmgzcjlrWTgzb1pxUFplbGpfaVBsQ0ctT1hvOGU0NEFqQW12Q080TVJRckhjMy1hNUJQekRSZnZ2ZmJDTV8zcW52Y1NYdHdsQ00?oc=5",
-      "source": "DepEd Region VIII",
-      "category": "DepEd",
-      "published": "2026-10-22T07:00:00Z",
-      "via": "Google News",
-      "feed_name": "Department of Education"
     },
     {
       "title": "Partners and Linkages - Ateneo de Naga University",
